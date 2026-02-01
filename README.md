@@ -11,7 +11,7 @@
 
 <p>
 I am a <b>B.Tech IT student</b> currently focused on <b>Machine Learning</b> and real-world problem solving using data.
-I enjoy building end-to-end ML projects — from data preprocessing and model training to deployment using FastAPI.
+I enjoy building end-to-end ML projects — from data preprocessing and model training to deployment.
 </p>
 
 <ul>
