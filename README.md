@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lalit Chandra</h1>
-<h3 align="center">Machine Learning Student | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif"  width="30" /> , I'm Lalit Chandra</h1>
+<h4 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=500&size=19&letterSpacing=1px;&duration=3000&pause=100&color=F7F7F7&multiline=true&width=435&lines=Machine+Learning+Student;Tech+Enthusiast;+Problem+Solver" alt="Typing SVG" /></a></h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=lalitchandra00&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -10,6 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
+
 I am a <b>B.Tech IT student</b> currently focused on <b>Machine Learning</b> and real-world problem solving using data.
 I enjoy building end-to-end ML projects — from data preprocessing and model training to deployment.
 </p>
@@ -55,7 +56,7 @@ Machine Learning system that predicts whether water is <b>safe for drinking</b> 
 Live API Documentation
 </a>
 
-<br><br>
+<br>
 
 <h3>📧 Spam Mail Detection</h3>
 <p>
