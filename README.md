@@ -1,75 +1,98 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">YOUR NAME</span></h1>
-<h3 align="center">Aspiring Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Lalit Chandra</h1>
+<h3 align="center">Machine Learning Student | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lalitchandra00&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <hr>
 
 <h2>👨‍💻 About Me</h2>
+
+<p>
+I am a <b>B.Tech IT student</b> currently focused on <b>Machine Learning</b> and real-world problem solving using data.
+I enjoy building end-to-end ML projects — from data preprocessing and model training to deployment using FastAPI.
+</p>
+
 <ul>
-  <li>🌱 Currently learning: <b>Web Development / DSA / ML</b></li>
-  <li>💡 Interests: <b>Problem Solving, Open Source, New Technologies</b></li>
-  <li>🤝 Open to collaborate on: <b>Web & ML Projects</b></li>
-  <li>📫 Reach me at: <b>your_email@gmail.com</b></li>
+  <li>🎓 Student | AI / ML Enthusiast</li>
+  <li>🌱 Currently learning advanced ML concepts & deployment</li>
+  <li>🚀 Interested in real-world ML applications</li>
+  <li>🤝 Open to collaboration on ML & data projects</li>
+  <li>📫 Contact: <b>mail4lalitchandra@gmail.com</b></li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Languages & Tools</h2>
+<h2>🛠️ Technical Skills</h2>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,linux" />
+<b>Languages:</b> Python, C, C++, HTML, CSS, MySQL <br>
+<b>ML / Data:</b> NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK <br>
+<b>Tools:</b> VS Code, Jupyter Notebook, Google Colab, Git, GitHub <br>
+<b>Deployment:</b> FastAPI, Render
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,github,linux" />
 </p>
 
 <hr>
 
-<h2>📌 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
+
+<h3>💧 Water Potability Prediction</h3>
+<p>
+Machine Learning system that predicts whether water is <b>safe for drinking</b> based on chemical and physical water quality attributes.
+</p>
 <ul>
-  <li>
-    <b>🚀 Project Name 1</b><br>
-    Short description of what this project does.<br>
-    🔗 <a href="https://github.com/YOUR_GITHUB_USERNAME/project1">View Repo</a>
-  </li>
-  <br>
-  <li>
-    <b>🚀 Project Name 2</b><br>
-    Short description of what this project does.<br>
-    🔗 <a href="https://github.com/YOUR_GITHUB_USERNAME/project2">View Repo</a>
-  </li>
+  <li>Algorithms trained on multiple water quality features</li>
+  <li>End-to-end ML pipeline with deployment</li>
+  <li>Live FastAPI application</li>
 </ul>
+
+🔗 <a href="https://water-potability-deployed.onrender.com/docs" target="_blank">
+Live API Documentation
+</a>
+
+<br><br>
+
+<h3>📧 Spam Mail Detection</h3>
+<p>
+ML-based text classification system that detects whether an email/message is <b>Spam or Ham</b>.
+</p>
+<ul>
+  <li>Text preprocessing using NLTK</li>
+  <li>Feature extraction with TF-IDF</li>
+  <li>Deployed using FastAPI</li>
+</ul>
+
+🔗 <a href="https://spam-detection-deployed.onrender.com/docs" target="_blank">
+Live API Documentation
+</a>
 
 <hr>
 
 <h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitchandra00&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitchandra00&theme=tokyonight&hide_border=true" />
 </p>
-
-<hr>
-
-<h2>🧠 Coding Profiles</h2>
-<ul>
-  <li>💻 LeetCode: <a href="https://leetcode.com/YOUR_USERNAME/">Your Profile</a></li>
-  <li>🏆 HackerRank: <a href="#">Your Profile</a></li>
-</ul>
 
 <hr>
 
 <h2>🌐 Connect With Me</h2>
+
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/lalit-chandra-b943b7317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram" />
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+  <a href="mailto:mail4lalitchandra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
