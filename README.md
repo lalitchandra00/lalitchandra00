@@ -73,23 +73,34 @@ Live API Documentation
 
 <hr>
 
-
 <h2>🌐 Connect With Me</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/lalit-chandra-b943b7317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lalit%20Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="42" height="42" alt="LinkedIn" />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 
+
+ 
   <a href="mailto:mail4lalitchandra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mail4lalitchandra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"
+         width="42" height="42" alt="Gmail" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 
-  <a href="https://github.com/lalitchandra00">
-    <img src="https://img.shields.io/badge/GitHub-lalitchandra00-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://github.com/lalitchandra00" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        
   </a>
 </p>
 
+<p>
+  <b>LinkedIn</b> &nbsp;&nbsp; <b>Gmail</b> &nbsp;&nbsp;&nbsp; <b>GitHub</b>
+</p>
 
 <hr>
 
