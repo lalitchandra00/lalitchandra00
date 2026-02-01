@@ -73,16 +73,6 @@ Live API Documentation
 
 <hr>
 
-<h2>📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitchandra00&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitchandra00&theme=github-dark&hide_border=true" />
-</p>
-
 
 <h2>🌐 Connect With Me</h2>
 
