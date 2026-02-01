@@ -30,7 +30,7 @@ I enjoy building end-to-end ML projects — from data preprocessing and model tr
 <b>Languages:</b> Python, C, C++, HTML, CSS, MySQL <br>
 <b>ML / Data:</b> NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK <br>
 <b>Tools:</b> VS Code, Jupyter Notebook, Google Colab, Git, GitHub <br>
-<b>Deployment:</b> FastAPI, Render
+<b>Deployment:</b> Render, Hugging face
 </p>
 
 <p>
@@ -73,28 +73,33 @@ Live API Documentation
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitchandra00&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitchandra00&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitchandra00&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitchandra00&theme=github-dark&hide_border=true" />
 </p>
 
-<hr>
 
 <h2>🌐 Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/lalit-chandra-b943b7317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lalit%20Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:mail4lalitchandra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mail4lalitchandra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lalitchandra00">
+    <img src="https://img.shields.io/badge/GitHub-lalitchandra00-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 <hr>
 
