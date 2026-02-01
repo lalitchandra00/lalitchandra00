@@ -34,7 +34,7 @@ I enjoy building end-to-end ML projects — from data preprocessing and model tr
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,github" />
 </p>
 
 <hr>
