@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" /> , I'm Lalit Chandra</h1>
-<h4 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=500&size=19&letterSpacing=1px;&duration=4000&pause=100&color=F7F7F7&width=550&lines=Exploring+Gen+%26+Agentic+AI;Waiting+for+epochs...+and+npm+install" alt="Typing SVG" /></a></h4>
+<h4 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&duration=3000&pause=400&color=F7F7F7&background=DEEDFF00&width=435&lines=Learning+how+machines+learn%2C;how+models+think%2C+and+how+agents+act." alt="Typing SVG" /></a></h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
