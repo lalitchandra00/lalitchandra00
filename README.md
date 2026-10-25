@@ -1,105 +1,148 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" /> , I'm Lalit Chandra</h1>
-<h4 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&duration=3000&pause=400&color=F7F7F7&background=DEEDFF00&width=435&lines=Learning+how+machines+learn%2C;how+models+think%2C+and+how+agents+act." alt="Typing SVG" /></a></h4>
+# Lalit Chandra
 
-<p align="center">
+<h1 align="left">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" alt="Waving hand" />, I'm Lalit Chandra</h1>
+
+<h4 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=15&color=F7F7F7&center=true&repeat=false&width=850&lines=My+brain+constantly+oscillates+between+'optimizing+gradient+descent'+and+'why+is+CORS+blocking+my+API+request+again%3F'" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&duration=3000&pause=400&color=22D3EE&background=DEEDFF00&width=600&lines=Code.+Models.+Agents.+Real-world+systems.;Learning+how+machines+learn%2C;how+models+reason%2C+and+how+agents+act." alt="Animated introduction" />
   </a>
+</h4>
+
+<p align="left">
+  <b>Aspiring AI/ML Engineer · Agentic AI Explorer · AI Systems Builder</b>
+</p>
+
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lalitchandra00&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## About Me
+
+I'm a B.Tech Information Technology student interested in building intelligent systems that combine machine learning, Generative AI, and full-stack development.
+
+I enjoy exploring how models learn, how LLM applications retrieve and use information, and how AI agents can reason through tasks and interact with tools.
+
+- 🎓 B.Tech in Information Technology
+- 🧠 Exploring Generative AI, Deep Learning, RAG, and Agentic AI
+- ⚙️ Building AI-powered applications, semantic retrieval systems, and full-stack products
+- 💼 Former AI/ML Trainee at BSP, SAIL India, and Frontend Developer Intern at Walsoul Consulting
+- 🌱 Currently learning LangGraph and agentic workflows
+- 📫 Email: [mail4lalitchandra@gmail.com](mailto:mail4lalitchandra@gmail.com)
+
+---
+## ⚙️ My Engineering Arsenal
+
+<p align="left">
+  <img src="assets/tech-stack-visual.png" alt="AI engineering workspace featuring programming languages, machine learning frameworks, databases, and developer tools" width="100%" />
+</p>
+
+### Programming Languages
+`Python` · `JavaScript` · `C` · `C++` · `SQL`
+
+### Web Development
+`HTML` · `CSS` · `React.js` · `Tailwind CSS` · `FastAPI`
+
+### AI, Machine Learning & Data Science
+`Deep Learning` · `Generative AI` · `TensorFlow` · `Keras` · `Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `NLTK`
+
+### LLM Engineering & Agentic AI
+`LangChain` · `RAG` · `Embeddings` · `Semantic Search`
+
+**Currently Exploring:** `LangGraph` · `Agentic Workflows` · `Tool Calling`
+
+### Databases & Vector Search
+`MySQL` · `MongoDB` · `FAISS` · `Qdrant` · `Pinecone`
+
+### Developer Tools
+`Git` · `GitHub` · `VS Code` · `Jupyter Notebook` · `Google Colab`
+
+---
+
+<p align="left">
+  <i>Code. Models. Agents. Real-world systems.</i>
+</p>
+---
+
+## Featured Projects
+
+### ⚡ MemoLM
+
+**Intelligent LLM Response Firewall & Safe Semantic Cache Gateway**
+
+A safety-aware semantic caching gateway designed to reuse relevant LLM responses while rejecting unsafe or outdated cache matches.
+
+- Evaluates knowledge versions, TTL, domain risk policies, and tenant isolation.
+- Provides an OpenAI-compatible gateway for cached responses and provider fallback.
+- Includes cache explainability, latency and cost tracking, and an interactive playground.
+- Provides Python SDK integration and Python/TypeScript SDK documentation.
+
+**Focus:** LLM Infrastructure · Semantic Caching · AI Safety · Backend Engineering
+
+[View Repository →](https://github.com/lalitchandra00/MemoLM)
+
+### 🎬 VidzyAI
+
+**AI-Powered Video Understanding**
+
+An AI project focused on making video content easier to explore and query.
+
+- Explore AI-assisted video summarization and information retrieval.
+- Designed around making information from video content more accessible.
+- See the repository for the current implementation and supported features.
+
+**Focus:** Generative AI · Natural Language Processing · Information Retrieval
+
+[View Repository →](https://github.com/lalitchandra00/VidzyAI)
+
+### 🌊 OceanSentinal
+
+**AI-Powered Marine Debris & Sonar Image Analysis**
+
+A computer-vision project focused on detecting underwater objects and marine debris from side-scan sonar imagery.
+
+- Uses YOLO-based object detection for sonar image analysis.
+- Focuses on identifying marine debris and underwater anomalies.
+- Connects AI detection with sonar preprocessing and a geospatial analysis workflow.
+
+**Focus:** Deep Learning · Computer Vision · YOLOv8 · Sonar Image Analysis
+
+[View Repository →](https://github.com/lalitchandra00/OceanSentinal)
+
+---
+<h2>GitHub Analytics</h2>
+
+<p align="left">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitchandra00&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=C9D1D9&custom_title=Code%20Distribution" alt="Code Distribution" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=lalitchandra00&hide_border=true&background=0B1220&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
+</p>
+---
+
+## Currently Exploring
+
+```text
+AI SYSTEMS     → LLM applications, RAG, semantic retrieval
+AGENTIC AI     → LangGraph, tool calling, multi-step workflows
+ML ENGINEERING → Deep Learning, model evaluation, computer vision
+SOFTWARE       → API design, backend systems, full-stack integration
+```
+
+I want to understand not only how to build intelligent models, but also how to turn them into useful, reliable software.
+
+---
+
+<p align="left">
+  <i>Code. Models. Agents. Real-world systems.</i>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lalitchandra00&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I am a <b>B.Tech IT student currently diving deep into <b>Deep Learning, Gen AI and Agentic AI</b>, alongside <b>Full-Stack Web Development</b>. I enjoy building end-to-end applications where intelligent AI agents and machine learning models meet robust web interfaces. 
-
-</p>
-
-<ul>
-  <li>🎓 B.Tech in Information Technology</li>
-  <li>💼 Previously: AI/ML Trainee at <b>BSP, SAIL India</b> & Frontend Developer Intern at <b>Walsoul Consulting</b></li>
-  <li>🌱 Currently learning and building with Deep Learning, Agentic Workflows, and Full-Stack Web Dev</li>
-  <li>🚀 Interested in real-world Gen AI applications and intelligent automation</li>
-  <li>📫 Contact: <b>mail4lalitchandra@gmail.com</b></li>
-</ul>
-
-<hr>
-
-<h2>🛠️ Technical Skills</h2>
-
-<p>
-<b>Languages:</b> Python, JavaScript, C, C++, SQL <br>
-<b>Frontend:</b> HTML, CSS, React.js, Tailwind CSS <br>
-<b>Backend:</b> FastAPI <br>
-<b>AI / ML:</b> Deep Learning, Gen AI, Agentic AI, TensorFlow, Keras, Scikit-learn, Pandas, NumPy <br>
-<b>Tools:</b> VS Code, Jupyter Notebook, Git, GitHub <br>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,react,tailwind,fastapi,mysql,mongodb,git,github" />
-</p>
-
-<hr>
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🌊 SonarVision</h3>
-<p>
-An AI-powered marine litter detection platform that processes sonar images to identify waste, extract product info, and generate ecological reports using Computer Vision.
-</p>
-<ul>
-  <li><b>Tech:</b> YOLOv8, Computer Vision, Full-Stack integration.</li>
-</ul>
-🔗 <a href="https://github.com/lalitchandra00/SonarVision" target="_blank">View Repository</a>
-
-<br><br>
-
-<h3>🤖 DataAgent</h3>
-<p>
-An Autonomous Data Scientist platform utilizing <b>Agentic AI</b> for structured datasets that performs automated data cleaning, exploratory data analysis (EDA), and visualization.
-</p>
-<ul>
-  <li><b>Tech:</b> React 19, FastAPI, Python, Pandas, Google Gemini API, Agentic Workflows.</li>
-</ul>
-
-<br><br>
-
-<h3>⚡ CapiZ <i>(Currently Building)</i></h3>
-<p>
-An active project focusing on the intersection of modern web development and advanced AI integrations.
-</p>
-🔗 <a href="https://github.com/lalitchandra00/CapiZ" target="_blank">View Repository</a>
-
-<br><br>
-
-<h3>📬 PostNest <i>(Currently Building)</i></h3>
-<p>
-A full-stack application leveraging modern web technologies for seamless user experiences and data handling.
-</p>
-🔗 <a href="https://github.com/lalitchandra00/PostNest" target="_blank">View Repository</a>
-
-<br><br>
-
-
-
-<h2>🌐 Connect With Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lalit-chandra-b943b7317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:mail4lalitchandra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact me by email" />
   </a>
-  <a href="https://github.com/lalitchandra00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/lalitchandra00">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore my GitHub" />
   </a>
 </p>
-<hr>
-
-<h3 align="center">✨ Keep learning. Keep building. Keep moving forward. ✨</h3>
