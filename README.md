@@ -17,21 +17,29 @@
 ---
 
 ## About Me
+## About Me
 
 <div>
-  <img src="assets/about_me.png" alt="AI engineering workspace" width="35%" align="right" />
+  <img src="assets/about_me.png" alt="AI engineering workspace" width="50%" align="right" />
 
-I'm a B.Tech Information Technology student interested in building intelligent systems that combine machine learning and Generative AI.
+I'm a B.Tech Information Technology student passionate about building intelligent systems and real-world applications. I enjoy exploring how machines learn, how language models process information, and how AI agents can perform tasks and interact with tools.
 
-I enjoy turning raw data into meaningful insights, building machine learning solutions, and exploring how Generative AI and intelligent agents can automate complex tasks.
+My interests lie at the intersection of **Data Analysis Machine Learning, Generative AI, and Agentic AI**. I like experimenting with new technologies, understanding the engineering behind AI systems, and turning ideas into practical projects rather than limiting myself to theory.
 
-- 🎓 B.Tech in Information Technology
-- 🧠 Exploring Generative AI, Deep Learning, RAG, and Agentic AI
-- ⚙️ Building AI-powered applications, semantic retrieval systems, and full-stack products
-- 💼 Former AI/ML Trainee at BSP, SAIL India, and Frontend Developer Intern at Walsoul Consulting
-- 🌱 Currently learning LangGraph and agentic workflows
-- 📫 Email: [mail4lalitchandra@gmail.com](mailto:mail4lalitchandra@gmail.com)
+- 💼 Experience as an AI/ML Trainee at BSP, SAIL India, and a Frontend Developer Intern at Walsoul Consulting
+- 🚀 My goal is to build useful AI products that combine intelligent models with thoughtful engineering and deliver measurable real-world impact
+- 🧠 Exploring Machine Learning, Deep Learning, Generative AI, and Large Language Models
+- 🔎 Building Retrieval-Augmented Generation (RAG) pipelines using embeddings, vector databases, and semantic search
+- 🤖 Learning to design AI agents that use tools, manage workflows, and solve multi-step problems
+- ⚙️ Interested in LLM application engineering, intelligent automation, and context-aware systems
+- 🛠️ Building AI-powered projects focused on solving practical problems and improving real-world workflows
+- 📊 Enjoy working with data, extracting meaningful insights, experimenting with models, and evaluating their performance
+- 🔗 Exploring frameworks and technologies such as LangChain, LangGraph, FastAPI, and Hugging Face
+- 💡 Interested in the engineering challenges behind AI systems, including retrieval quality, semantic caching, safety, latency, and scalability
+- 🌱 Currently deepening my understanding of agentic workflows, tool calling, AI system design, and production-oriented AI applications
+- 📫 Reach me at [mail4lalitchandra@gmail.com](mailto:mail4lalitchandra@gmail.com)
 
+</div>
 </div>
 
 ---
@@ -39,7 +47,9 @@ I enjoy turning raw data into meaningful insights, building machine learning sol
 # ⚙️ My Engineering Arsenal
 
 <p align="left">
-  <img src="assets/tech-stack-visual.png" alt="AI engineering workspace featuring programming languages, machine learning frameworks, databases, and developer tools" width="90%" />
+  <img src="assets/tech-stack-visual.png" alt="AI engineering workspace featuring programming languages, machine learning frameworks, databases, and developer tools" width="100%" />
+
+  
 </p>
 
 ### Programming Languages
@@ -62,11 +72,6 @@ I enjoy turning raw data into meaningful insights, building machine learning sol
 ### Developer Tools
 `Git` · `GitHub` · `VS Code` · `Jupyter Notebook` · `Google Colab`
 
----
-
-<p align="left">
-  <i>Code. Models. Agents. Real-world systems.</i>
-</p>
 ---
 
 # Featured Projects
