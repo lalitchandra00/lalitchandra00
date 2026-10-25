@@ -1,6 +1,4 @@
-# Lalit Chandra
-
-<h1 align="left">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" alt="Waving hand" />, I'm Lalit Chandra</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" alt="Waving hand" />, I'm Lalit Chandra</h1>
 
 <h4 align="left">
   <a href="https://git.io/typing-svg">
@@ -12,19 +10,17 @@
   <b>Aspiring AI/ML Engineer · Agentic AI Explorer · AI Systems Builder</b>
 </p>
 
-
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lalitchandra00&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lalitchandra00&label=PROFILE%20VIEWS&color=0B1220&labelColor=22D3EE&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+# About Me
 
-I'm a B.Tech Information Technology student interested in building intelligent systems that combine machine learning, Generative AI, and full-stack development.
+I'm a B.Tech Information Technology student interested in building intelligent systems that combine machine learning, Generative AI.
 
-I enjoy exploring how models learn, how LLM applications retrieve and use information, and how AI agents can reason through tasks and interact with tools.
+I enjoy turning raw data into meaningful insights, building machine learning solutions, and exploring how Generative AI and intelligent agents can automate complex tasks.
 
 - 🎓 B.Tech in Information Technology
 - 🧠 Exploring Generative AI, Deep Learning, RAG, and Agentic AI
@@ -34,7 +30,7 @@ I enjoy exploring how models learn, how LLM applications retrieve and use inform
 - 📫 Email: [mail4lalitchandra@gmail.com](mailto:mail4lalitchandra@gmail.com)
 
 ---
-## ⚙️ My Engineering Arsenal
+# ⚙️ My Engineering Arsenal
 
 <p align="left">
   <img src="assets/tech-stack-visual.png" alt="AI engineering workspace featuring programming languages, machine learning frameworks, databases, and developer tools" width="100%" />
@@ -67,9 +63,9 @@ I enjoy exploring how models learn, how LLM applications retrieve and use inform
 </p>
 ---
 
-## Featured Projects
+# Featured Projects
 
-### ⚡ MemoLM
+## ⚡ MemoLM
 
 **Intelligent LLM Response Firewall & Safe Semantic Cache Gateway**
 
@@ -84,21 +80,21 @@ A safety-aware semantic caching gateway designed to reuse relevant LLM responses
 
 [View Repository →](https://github.com/lalitchandra00/MemoLM)
 
-### 🎬 VidzyAI
+## 🎬 VidzyAI
 
 **AI-Powered Video Understanding**
 
 An AI project focused on making video content easier to explore and query.
 
-- Explore AI-assisted video summarization and information retrieval.
+- Explore AI-assisted youtube video summarization and information retrieval.
 - Designed around making information from video content more accessible.
-- See the repository for the current implementation and supported features.
+- Extended AI Capabilities Through a Browser Extension
 
 **Focus:** Generative AI · Natural Language Processing · Information Retrieval
 
 [View Repository →](https://github.com/lalitchandra00/VidzyAI)
 
-### 🌊 OceanSentinal
+## 🌊 OceanSentinal
 
 **AI-Powered Marine Debris & Sonar Image Analysis**
 
@@ -121,7 +117,7 @@ A computer-vision project focused on detecting underwater objects and marine deb
 </p>
 ---
 
-## Currently Exploring
+# Currently Exploring
 
 ```text
 AI SYSTEMS     → LLM applications, RAG, semantic retrieval
@@ -142,7 +138,10 @@ I want to understand not only how to build intelligent models, but also how to t
   <a href="mailto:mail4lalitchandra@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Connect-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact me by email" />
   </a>
-  <a href="https://github.com/lalitchandra00">
-    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore my GitHub" />
+  <a href="https://www.instagram.com/lalittchandra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Connect on Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/lalit-chandra-b943b7317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn" />
   </a>
 </p>
