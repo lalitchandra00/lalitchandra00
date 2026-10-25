@@ -16,9 +16,12 @@
 
 ---
 
-# About Me
+## About Me
 
-I'm a B.Tech Information Technology student interested in building intelligent systems that combine machine learning, Generative AI.
+<div>
+  <img src="assets/about_me.png" alt="AI engineering workspace" width="35%" align="right" />
+
+I'm a B.Tech Information Technology student interested in building intelligent systems that combine machine learning and Generative AI.
 
 I enjoy turning raw data into meaningful insights, building machine learning solutions, and exploring how Generative AI and intelligent agents can automate complex tasks.
 
@@ -29,11 +32,14 @@ I enjoy turning raw data into meaningful insights, building machine learning sol
 - 🌱 Currently learning LangGraph and agentic workflows
 - 📫 Email: [mail4lalitchandra@gmail.com](mailto:mail4lalitchandra@gmail.com)
 
+</div>
+
 ---
+
 # ⚙️ My Engineering Arsenal
 
 <p align="left">
-  <img src="assets/tech-stack-visual.png" alt="AI engineering workspace featuring programming languages, machine learning frameworks, databases, and developer tools" width="100%" />
+  <img src="assets/tech-stack-visual.png" alt="AI engineering workspace featuring programming languages, machine learning frameworks, databases, and developer tools" width="90%" />
 </p>
 
 ### Programming Languages
