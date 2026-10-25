@@ -17,7 +17,6 @@
 ---
 
 ## About Me
-## About Me
 
 <div>
   <img src="assets/about_me.png" alt="AI engineering workspace" width="50%" align="right" />
