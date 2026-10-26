@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 📃 About Me
 
 <div>
   <img src="assets/about_me.png" alt="AI engineering workspace" width="50%" align="right" />
@@ -27,15 +27,10 @@ My interests lie at the intersection of **Data Analysis Machine Learning, Genera
 
 - 💼 Experience as an AI/ML Trainee at BSP, SAIL India, and a Frontend Developer Intern at Walsoul Consulting
 - 🚀 My goal is to build useful AI products that combine intelligent models with thoughtful engineering and deliver measurable real-world impact
-- 🧠 Exploring Machine Learning, Deep Learning, Generative AI, and Large Language Models
+- 🧠 Exploring Machine Learning, Deep Learning, Generative AI, and Large Language Models along with frameworks and technologies such as LangChain, LangGraph, FastAPI, and Hugging Face
 - 🔎 Building Retrieval-Augmented Generation (RAG) pipelines using embeddings, vector databases, and semantic search
-- 🤖 Learning to design AI agents that use tools, manage workflows, and solve multi-step problems
 - ⚙️ Interested in LLM application engineering, intelligent automation, and context-aware systems
-- 🛠️ Building AI-powered projects focused on solving practical problems and improving real-world workflows
 - 📊 Enjoy working with data, extracting meaningful insights, experimenting with models, and evaluating their performance
-- 🔗 Exploring frameworks and technologies such as LangChain, LangGraph, FastAPI, and Hugging Face
-- 💡 Interested in the engineering challenges behind AI systems, including retrieval quality, semantic caching, safety, latency, and scalability
-- 🌱 Currently deepening my understanding of agentic workflows, tool calling, AI system design, and production-oriented AI applications
 - 📫 Reach me at [mail4lalitchandra@gmail.com](mailto:mail4lalitchandra@gmail.com)
 
 </div>
@@ -73,7 +68,7 @@ My interests lie at the intersection of **Data Analysis Machine Learning, Genera
 
 ---
 
-# Featured Projects
+# 🧠Featured Projects
 
 ## ⚡ MemoLM
 
@@ -119,13 +114,14 @@ A computer-vision project focused on detecting underwater objects and marine deb
 [View Repository →](https://github.com/lalitchandra00/OceanSentinal)
 
 ---
-<h2>GitHub Analytics</h2>
+
+# 💻GitHub Analytics
 
 <p align="left">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitchandra00&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=C9D1D9&custom_title=Code%20Distribution" alt="Code Distribution" />
   <img width="49%" src="https://streak-stats.demolab.com?user=lalitchandra00&hide_border=true&background=0B1220&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
----
+
 
 # Currently Exploring
 
@@ -137,21 +133,22 @@ SOFTWARE       → API design, backend systems, full-stack integration
 ```
 
 I want to understand not only how to build intelligent models, but also how to turn them into useful, reliable software.
+<br>
 
----
 
-<p align="left">
-  <i>Code. Models. Agents. Real-world systems.</i>
-</p>
-
-<p align="left">
+<p align="center">
   <a href="mailto:mail4lalitchandra@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact me by email" />
+    <img src="https://img.shields.io/badge/Gmail-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/lalittchandra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Connect on Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/lalit-chandra-b943b7317" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
+
+  
+</p>
+<p align="center">
+  <i>Code. Models. Agents. Real-world systems.</i>
 </p>
